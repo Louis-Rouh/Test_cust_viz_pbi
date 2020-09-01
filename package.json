@@ -1,0 +1,24 @@
+{
+  "name": "Test_cust_viz_pbi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louis-Rouh/Test_cust_viz_pbi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louis-Rouh/Test_cust_viz_pbi/issues"
+  },
+  "homepage": "https://github.com/Louis-Rouh/Test_cust_viz_pbi#readme",
+  "dependencies": {
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1"
+  }
+}
